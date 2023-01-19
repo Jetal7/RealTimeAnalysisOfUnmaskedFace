@@ -1,0 +1,9 @@
+TensorFlow
+Keras
+opencv
+schedule
+numpy
+argparse
+imutils
+dlib
+scipy
